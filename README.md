@@ -2,7 +2,7 @@
 
 To run this example:
 
-- `git clone`
+- `git clone git@github.com:marcelotrivinos/express_example.git`
 - `cd express_example`
 - `npm install` or `yarn`
 - `npm run dev` or `yarn dev`
